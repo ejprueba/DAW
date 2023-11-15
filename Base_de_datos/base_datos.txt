@@ -1,0 +1,4 @@
+base de datos
+-------------
+
+En esta asignatura se aprenden los exquemas de entidad relacion y realizacion tablas en Mysql
